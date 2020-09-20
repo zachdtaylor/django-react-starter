@@ -7,7 +7,7 @@ import sys
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE',
-                          'django_react_spa.settings')
+                          'django_react_starter.settings')
     try:
         from django.core.management import execute_from_command_line
     except ImportError as exc:
