@@ -1,5 +1,5 @@
 {
-  "name": "django-react-spa",
+  "name": "django-react-starter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -23,8 +23,8 @@
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^4.3.0",
     "style-loader": "^1.2.1",
-    "webpack": "^4.44.2",
+    "webpack": "^5.16.0",
     "webpack-bundle-tracker": "^0.4.3",
-    "webpack-cli": "^3.3.12"
+    "webpack-cli": "^4.4.0"
   }
 }
