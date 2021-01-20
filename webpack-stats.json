@@ -1,1 +1,1 @@
-{"status":"done","chunks":{"frontend":[{"name":"frontend-ad78c812f4bbea3441e6.js","path":"/Users/zacharytaylor/Projects/django-react-spa/frontend/static/frontend/frontend-ad78c812f4bbea3441e6.js"}]}}
+{"status":"done","publicPath":"static/frontend/","chunks":{"frontend":[{"name":"frontend-7cbc5bb228c3e4fe7d44.js","publicPath":"static/frontend/frontend-7cbc5bb228c3e4fe7d44.js","path":"/Users/zachtaylor/Projects/django-react-starter/frontend/static/frontend/frontend-7cbc5bb228c3e4fe7d44.js"}]}}
