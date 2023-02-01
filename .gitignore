@@ -3,3 +3,4 @@ __pycache__
 env/
 frontend/static/frontend/
 *.sqlite3
+webpack-stats.json
