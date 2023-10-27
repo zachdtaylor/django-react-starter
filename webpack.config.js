@@ -1,6 +1,5 @@
 const path = require("path");
 const BundleTracker = require("webpack-bundle-tracker");
-const { CleanWebpackPlugin } = require("clean-webpack-plugin");
 
 module.exports = {
   entry: {
@@ -10,9 +9,9 @@ module.exports = {
     path: path.resolve("./frontend/static/frontend/"),
     filename: "[name]-[fullhash].js",
     publicPath: "static/frontend/",
+    clean: true
   },
   plugins: [
-    new CleanWebpackPlugin(),
     new BundleTracker({
       path: __dirname,
       filename: "./webpack-stats.json",
